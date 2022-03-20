@@ -1,0 +1,33 @@
+{
+  "name": "hotbox",
+  "version": "1.0.15",
+  "main": [
+    "hotbox.js",
+    "hotbox.css"
+  ],
+  "keywords": [
+    "hotbox",
+    "html5",
+    "javascript",
+    "ui"
+  ],
+  "ignore": [
+    ".gitignore",
+    ".jscsrc",
+    ".jshintrc",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "seajs": "~2.3.0"
+  },
+  "_release": "1.0.15",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.15",
+    "commit": "440e62a01ae48bc0d5d6d6ed5379489a830fa967"
+  },
+  "_source": "https://gitee.com/ygangs/hotbox.git",
+  "_target": "*",
+  "_originalSource": "https://gitee.com/ygangs/hotbox.git"
+}
